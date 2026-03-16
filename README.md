@@ -51,13 +51,13 @@ software-testing-automation-lab
 ### Screenshots
 
 ### Login Page
-![Login Page](screenshots/login_page.png)
+![Login Page](Screenshots/login_page.png)
 
 ### Successful Login Test
-![Login Success](screenshots/login_success.png)
+![Login Success](Screenshots/login_success.png)
 
 ### Test Execution Results
-![PyTest Results](screenshots/pytest_results.png)
+![PyTest Results](Screenshots/pytest_results.png)
 
 
 ## How to Run Tests
