@@ -54,3 +54,15 @@ Activate the virtual environment:
 
 ```bash
 venv\Scripts\activate
+
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login_page.png)
+
+### Successful Login Test
+![Login Success](screenshots/login_success.png)
+
+### Test Execution Results
+![PyTest Results](screenshots/pytest_results.png)
