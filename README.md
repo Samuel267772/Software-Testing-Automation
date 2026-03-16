@@ -48,15 +48,7 @@ software-testing-automation-lab
   - Expected vs actual results
   - Severity and priority
 
-## How to Run Tests
-
-Activate the virtual environment:
-
-```bash
-venv\Scripts\activate
-
-
-## Screenshots
+### Screenshots
 
 ### Login Page
 ![Login Page](screenshots/login_page.png)
@@ -66,3 +58,14 @@ venv\Scripts\activate
 
 ### Test Execution Results
 ![PyTest Results](screenshots/pytest_results.png)
+
+
+## How to Run Tests
+
+Activate the virtual environment:
+
+```bash
+venv\Scripts\activate
+
+
+
